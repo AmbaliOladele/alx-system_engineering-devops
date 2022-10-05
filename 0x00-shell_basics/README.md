@@ -13,3 +13,5 @@ ls -lna - Display current directory contents in Long format with user and group 
 mkdir DIRNAME -  Creates a directory
 
 mv FILELOCATION NEWFILELOCATION - Moves a file to a specific directory
+
+rm FILENAME - Deletes a file
