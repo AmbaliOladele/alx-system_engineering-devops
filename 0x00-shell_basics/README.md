@@ -9,3 +9,7 @@ ls -l - Display current directory contents in a long format
 ls -la - Display current directory contents, including hidden files (starting with .). Use the long format
 
 ls -lna - Display current directory contents in Long format with user and group IDs displayed numerically and hidden files (starting with .)
+
+mkdir DIRNAME -  Creates a directory
+
+mv FILELOCATION NEWFILELOCATION - Moves a file to a specific directory
