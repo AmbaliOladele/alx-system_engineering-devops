@@ -1,6 +1,17 @@
-[0-cwd](0-current_working_directory) - pwd - prints the absolute pathname of the current working directory
-
-1- ls - Display the contents list of your current directory
+# Shell, Basics
+[]() | 
+Filename | Description
+--- | ---
+[0-cwd](0-current_working_directory) | prints the absolute pathname of the current working directory
+[1-listit](1-listit) |  Displays the contents list of your current directory
+[2-bring_me_home](2-bring_me_home) | Changes the working directory to the user's home directory
+[3-list_files](3-list_files) | Displays current directory contents in a long format
+[4-listmorefiles](4-listmorefiles) | Displays, in the long format, current directory contents, including hidden files
+[5-listfilesdigitonly](5-listfilesdigitonly) | Displays current directory contents with user and group IDs
+[]() | 
+[]() | 
+[]() | 
+[]() | 
 
 2 - cd - Changes the working directory to the user's home directory
 
