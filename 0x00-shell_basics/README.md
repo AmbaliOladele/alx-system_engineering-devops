@@ -1,4 +1,4 @@
-[0-cwd](0-current-working_directory) - pwd - prints the absolute pathname of the current working directory
+[0-cwd](0-current_working_directory) - pwd - prints the absolute pathname of the current working directory
 
 1- ls - Display the contents list of your current directory
 
